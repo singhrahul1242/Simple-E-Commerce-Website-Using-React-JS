@@ -1,0 +1,17 @@
+.warning{
+    height: 40px;
+    width: 300px;
+    position: absolute;
+    right: 35%;
+    top: 2%;
+    background-color: rgb(198, 19, 19);
+    font-size: 1.1rem;
+    color: white;
+    font-family: cursive;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#category {
+    background-color: rgb(243, 243, 248);
+}
